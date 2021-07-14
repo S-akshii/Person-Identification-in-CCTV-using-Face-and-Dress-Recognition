@@ -1,4 +1,4 @@
-# Person-Identification-in-CCTV-using-Face-and-Dress-Recognition
+# Person-Identification-in-CCTV-Footage-using-Face-and-Dress-Recognition
 A program to check a CCTV footage and identifying a person using his/her Face, Dress and recording time of appearance and disappearance
 
 ## Objective:
