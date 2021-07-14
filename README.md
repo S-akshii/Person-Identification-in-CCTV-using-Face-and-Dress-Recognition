@@ -1,4 +1,4 @@
-# CCTV-servillence-using-Computer-Vision
+# Person-Identification-in-CCTV-using-Face-and-Dress-Recognition
 A program to check a CCTV footage and identifying a person using his/her Face, Dress and recording time of appearance and disappearance
 
 ## Objective:
@@ -32,4 +32,3 @@ Our aim is to help them in the servillence for the missing one or the criminal.
 - [Face Detection using MTCNN](https://www.mygreatlearning.com/blog/real-time-face-detection/)
 - [Face recognition using pretrained Facenet](https://machinelearningmastery.com/how-to-perform-face-recognition-with-vggface2-convolutional-neural-network-in-keras/)
 - [Dress recognition dataset](https://medium.com/data-science-insider/clothing-dataset-5b72cd7c3f1f)
-- [Training Siamese network for dresses](https://www.kaggle.com/mainak2001/training-siamese-network-for-dresses)
